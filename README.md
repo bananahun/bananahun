@@ -22,6 +22,8 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 ![정훈's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananahun&show_icons=true&theme=radical)
 <!--
